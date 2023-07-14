@@ -1,0 +1,41 @@
+body{
+    background: linear-gradient(to bottom, #2f8f3c, #7c4a9e);
+    font-family: 'Bebas Neue', sans-serif;
+}
+.header_div{
+    margin-top: 50px;
+}
+p{
+    color: #fff;
+    font-size: 18px;
+}
+.main_div{
+    text-align: center;
+    margin-top: 50px;
+}
+#botao1{
+    background-color: #7c4a9e;
+    border-color: #2f8f3c;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 24px;
+    padding: 12px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+    transition: background-color 0.3 ease;
+    color: white;
+}
+#botao1:hover {
+    background-color: #2f8f3c;
+    border-color: #7c4a9e;
+    font-size: 26px;
+}
+
+h3, h4{
+    color: white;
+}
+.copy_right_footer{
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+    font-size: 14px;
+}
